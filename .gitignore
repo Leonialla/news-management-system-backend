@@ -1,0 +1,6 @@
+# Build Tools
+.gradle
+build
+
+# IDE Configurations
+.idea
